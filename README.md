@@ -78,57 +78,21 @@
   <tr>
     <td>
       <h3><a href="https://github.com/QQHKX/QQHKX-Prompt">QQHKX-Prompt</a></h3>
-      <p>提示词工程相关项目</p>
+      <p>提示词工程相关项目，包含各种AI模型的提示词模板和使用示例</p>
     </td>
     <td>
       <h3><a href="https://github.com/QQHKX/Baidu-Web-Disk-Hidden-Files-One-Key-Clean">Baidu-Web-Disk-Hidden-Files-One-Key-Clean</a></h3>
-      <p>百度网盘隐藏文件一键清理工具</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/QQHKX/school-study-supervision">school-study-supervision</a></h3>
-      <p>学校学习监督系统</p>
-    </td>
-    <td>
-      <h3><a href="https://github.com/QQHKX/md-article-little-assistant">md-article-little-assistant</a></h3>
-      <p>Markdown文章小助手</p>
+      <p>百度网盘隐藏文件一键清理工具，自动查找并删除临时文件</p>
     </td>
   </tr>
   <tr>
     <td>
       <h3><a href="https://github.com/QQHKX/Zombie-fight">Zombie-fight</a></h3>
-      <p>僵尸战斗游戏</p>
+      <p>基于Python和Pygame开发的僵尸战斗游戏，玩家操控大炮射击僵尸</p>
     </td>
-    <td>
-      <h3><a href="https://github.com/QQHKX/Fight-against-COVID-19">Fight-against-COVID-19</a></h3>
-      <p>抗击新冠疫情相关项目</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/QQHKX/open-cmd">open-cmd</a></h3>
-      <p>命令行工具项目</p>
-    </td>
-    <td>
-      <h3><a href="https://github.com/QQHKX/mailSender">mailSender</a></h3>
-      <p>邮件发送工具</p>
-    </td>
-  </tr>
-  <tr>
     <td>
       <h3><a href="https://github.com/QQHKX/oneapi_test">oneapi_test</a></h3>
-      <p>API测试项目</p>
-    </td>
-    <td>
-      <h3><a href="https://github.com/QQHKX/JailbreakLab">JailbreakLab</a></h3>
-      <p>AI越狱实验室</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3><a href="https://qqhkx.github.io">qqhkx.github.io</a></h3>
-      <p>个人博客网站</p>
+      <p>面向AI API服务的自动化测试工具，支持多模型并发测试</p>
     </td>
   </tr>
 </table>
