@@ -77,28 +77,58 @@
 <table>
   <tr>
     <td>
-      <h3>QQHKX-Prompt</h3>
+      <h3><a href="https://github.com/QQHKX/QQHKX-Prompt">QQHKX-Prompt</a></h3>
       <p>提示词工程相关项目</p>
     </td>
     <td>
-      <h3>Baidu-Web-Disk-Hidden-Files-One-Key-Clean</h3>
+      <h3><a href="https://github.com/QQHKX/Baidu-Web-Disk-Hidden-Files-One-Key-Clean">Baidu-Web-Disk-Hidden-Files-One-Key-Clean</a></h3>
       <p>百度网盘隐藏文件一键清理工具</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>school-study-supervision</h3>
+      <h3><a href="https://github.com/QQHKX/school-study-supervision">school-study-supervision</a></h3>
       <p>学校学习监督系统</p>
     </td>
     <td>
-      <h3>md-article-little-assistant</h3>
+      <h3><a href="https://github.com/QQHKX/md-article-little-assistant">md-article-little-assistant</a></h3>
       <p>Markdown文章小助手</p>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3>Zombie-fight</h3>
+    <td>
+      <h3><a href="https://github.com/QQHKX/Zombie-fight">Zombie-fight</a></h3>
       <p>僵尸战斗游戏</p>
+    </td>
+    <td>
+      <h3><a href="https://github.com/QQHKX/Fight-against-COVID-19">Fight-against-COVID-19</a></h3>
+      <p>抗击新冠疫情相关项目</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/QQHKX/open-cmd">open-cmd</a></h3>
+      <p>命令行工具项目</p>
+    </td>
+    <td>
+      <h3><a href="https://github.com/QQHKX/mailSender">mailSender</a></h3>
+      <p>邮件发送工具</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/QQHKX/oneapi_test">oneapi_test</a></h3>
+      <p>API测试项目</p>
+    </td>
+    <td>
+      <h3><a href="https://github.com/QQHKX/JailbreakLab">JailbreakLab</a></h3>
+      <p>AI越狱实验室</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://qqhkx.github.io">qqhkx.github.io</a></h3>
+      <p>个人博客网站</p>
     </td>
   </tr>
 </table>
