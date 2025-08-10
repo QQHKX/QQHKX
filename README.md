@@ -77,22 +77,32 @@
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/QQHKX/QQHKX-Prompt">QQHKX-Prompt</a></h3>
-      <p>提示词工程相关项目，包含各种AI模型的提示词模板和使用示例</p>
+      <h3><a href="https://github.com/QQHKX/Immersive-clock">Immersive-clock</a></h3>
+      <p>沉浸式时钟-React重构版本，提供美观的时钟界面和沉浸式体验</p>
     </td>
     <td>
-      <h3><a href="https://github.com/QQHKX/Baidu-Web-Disk-Hidden-Files-One-Key-Clean">Baidu-Web-Disk-Hidden-Files-One-Key-Clean</a></h3>
-      <p>百度网盘隐藏文件一键清理工具，自动查找并删除临时文件</p>
+      <h3><a href="https://github.com/QQHKX/oneapi_test">oneapi_test</a></h3>
+      <p>OneAPI测试项目，面向AI API服务的自动化测试工具</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/QQHKX/llm-api-manager">llm-api-manager</a></h3>
+      <p>大语言模型API管理工具，统一管理和调用各种LLM API服务</p>
+    </td>
+    <td>
+      <h3><a href="https://github.com/QQHKX/qqhkx-homepage">qqhkx-homepage</a></h3>
+      <p>现代化个人主页，展示个人信息和项目作品的精美网站</p>
     </td>
   </tr>
   <tr>
     <td>
       <h3><a href="https://github.com/QQHKX/Zombie-fight">Zombie-fight</a></h3>
-      <p>基于Python和Pygame开发的僵尸战斗游戏，玩家操控大炮射击僵尸</p>
+      <p>僵尸大战游戏，基于Python和Pygame开发的动作射击游戏</p>
     </td>
     <td>
-      <h3><a href="https://github.com/QQHKX/oneapi_test">oneapi_test</a></h3>
-      <p>面向AI API服务的自动化测试工具，支持多模型并发测试</p>
+      <h3><a href="https://github.com/QQHKX/Fight-against-COVID-19">Fight-against-COVID-19</a></h3>
+      <p>抗击新冠病毒主题游戏，寓教于乐的防疫知识普及游戏</p>
     </td>
   </tr>
 </table>
