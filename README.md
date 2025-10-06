@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7A7ADB&center=true&vCenter=true&random=false&width=500&lines=🤖️+数码科技爱好者;🔍+分享与热心帮助;🏠+智能家居小能手;🔨+设计开发一条龙;心有阳光，万物可爱✨" alt="Typing SVG" />
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
 </div>
 
 <div align="center">
